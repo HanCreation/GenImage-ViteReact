@@ -1,0 +1,10 @@
+[
+  {
+    path: '/tmp/gradio/bd5be9acfa80a3e921ebf977607038be003e402a/image.png',
+    url: 'https://bytedance-sdxl-lightning.hf.space/file=/tmp/gradio/bd5be9acfa80a3e921ebf977607038be003e402a/image.png',
+    size: null,
+    orig_name: 'image.png',
+    mime_type: null,
+    is_stream: false
+  }
+]
