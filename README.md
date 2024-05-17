@@ -9,6 +9,9 @@
 ### Cloning the Repository
 
 1. Clone the repository to your local machine
+2. Open command prompt
+3. Navigate to where ai-image-generator2 folder located using cd command
+   
 ### Installing Dependencies
 2. Install the project dependencies:
 
