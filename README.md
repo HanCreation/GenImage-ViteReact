@@ -13,7 +13,7 @@
 3. Navigate to where ai-image-generator2 folder located using cd command
    
 ### Installing Dependencies
-2. Install the project dependencies:
+4. Install the project dependencies:
 
     ```bash
     npm install
@@ -22,10 +22,10 @@
 
 ### Running the Development Server
 
-3. Start the development server:
+5. Start the development server:
 
     ```bash
     npm run dev
     ```
 
-4. Open the local link generated
+6. Open the local link generated
